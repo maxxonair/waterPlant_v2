@@ -1,0 +1,29 @@
+{
+    "waterSets": [
+        {
+            "name": "pump1",
+            "watering_schedule": [
+                81000,
+                201000
+            ],
+            "pump_cmd_times": [
+                1500,
+                1500
+            ]
+        },
+        {
+            "name": "pump2",
+            "watering_schedule": [
+                81000,
+                201000
+            ],
+            "pump_cmd_times": [
+                1500,
+                1500
+            ]
+        }
+    ],
+    "Settings": {
+        "force_update": 0
+    }
+}
