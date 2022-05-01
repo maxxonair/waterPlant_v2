@@ -14,7 +14,9 @@ This obviously requires mqtt to be set up with a running broker on the server si
 Check out:
 
 http://www.steves-internet-guide.com/into-mqtt-python-client/
+
 http://www.steves-internet-guide.com/mqtt-username-password-example/
+
 https://randomnerdtutorials.com/testing-mosquitto-broker-and-client-on-raspbbery-pi/
 
 or similar tutorials to set it up. 
