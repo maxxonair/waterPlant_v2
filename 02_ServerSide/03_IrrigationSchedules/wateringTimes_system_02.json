@@ -1,0 +1,43 @@
+{
+    "waterSets": [
+        {
+            "name": "pump1",
+            "weekly_schedule": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "daily_schedule": [
+                81000,
+                91000,
+                113000
+            ],
+            "pump_cmd_times": [
+                5000,
+                5000,
+                2500
+            ]
+        },
+        {
+            "name": "pump2",
+            "weekly_schedule": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "daily_schedule": [],
+            "pump_cmd_times": []
+        }
+    ],
+    "Settings": {
+        "force_update": 0
+    }
+}
