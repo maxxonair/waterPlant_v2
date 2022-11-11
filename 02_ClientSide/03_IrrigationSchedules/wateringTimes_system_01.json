@@ -1,0 +1,85 @@
+{
+    "waterSets": [
+        {
+            "name": "pump1",
+            "weekly_schedule": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "daily_schedule": [
+                91000,
+                103000,
+                123000
+            ],
+            "pump_cmd_times": [
+                3000,
+                3000,
+                1350
+            ]
+        },
+        {
+            "name": "pump2",
+            "weekly_schedule": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "daily_schedule": [
+                83000,
+                113000,
+                143000,
+                163000
+            ],
+            "pump_cmd_times": [
+                1500,
+                600,
+                600,
+                900
+            ]
+        },
+        {
+            "name": "pump3",
+            "weekly_schedule": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "daily_schedule": [],
+            "pump_cmd_times": []
+        },
+        {
+            "name": "pump4",
+            "weekly_schedule": [
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "daily_schedule": [
+                123000
+            ],
+            "pump_cmd_times": [
+                3000
+            ]
+        }
+    ],
+    "Settings": {
+        "force_update": 1
+    }
+}
